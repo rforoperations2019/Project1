@@ -8,7 +8,7 @@ Students may make their application in either flexdashboard or shinydashboard la
 
 Directions: 
 
-*Include at least:
+* Include at least:
     * At least three (4) filters
     * Three (3) single numeric based boxes/gauges
     * One (1) datatable
