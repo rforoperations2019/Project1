@@ -9,10 +9,10 @@ Students may make their application in either flexdashboard or shinydashboard la
 Directions: 
 
 * Include at least:
-    * At least three (4) filters
+    * At least three (3) filters
     * Three (3) single numeric based boxes/gauges
     * One (1) datatable
     * Three (3) interactive and reactively responsive charts. 
-* These elements should be places throughout a dashboard with at least three (3) pages or tabs with an analytical themes or question about the data. 
+      * These elements should be places throughout a dashboard with at least three (3) pages or tabs with an analytical themes or question about the data. 
   * On the server side your plots and tables must utilize the reactive function for any and all datasets.
 * Your final app must work when deployed to shinyapps.io.
