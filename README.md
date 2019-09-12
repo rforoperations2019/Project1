@@ -12,7 +12,7 @@ Directions:
     * Three (3) input/filters
     * Three (3) single numeric based boxes/gauges
     * One (1) datatable
-    * Three (3) reactively responsive charts. 
+    * Three (3) interactive and reactively responsive charts. 
       * These elements should be places throughout a dashboard with at least three (3) pages or tabs with an analytical themes or question about the data. 
   * On the server side your plots and tables must utilize the reactive function for any and all datasets.
 * Your final app must work when deployed to shinyapps.io.
